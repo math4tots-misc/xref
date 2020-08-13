@@ -1,0 +1,8 @@
+[package]
+name = "xref"
+version = "0.1.0"
+authors = ["Kyumin Kim <math4tots@users.noreply.github.com>"]
+edition = "2018"
+license = "Apache-2.0"
+repository = "https://github.com/math4tots/xref"
+description = "Like Cow, but also works with RefCell"
